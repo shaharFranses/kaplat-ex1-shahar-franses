@@ -1,1 +1,3 @@
 this is B step from phase 1
+this is g step from phase 2
+this is O step from phase 3
